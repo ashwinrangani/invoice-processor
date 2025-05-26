@@ -1,0 +1,15 @@
+# Sensitive files
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Excel files and processed flags
+*.xlsx
+*.xls
+*.processed
+
+# Virtual environment
+venv/
+.venv/
